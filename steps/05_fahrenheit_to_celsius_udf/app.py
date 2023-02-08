@@ -17,6 +17,7 @@ def main(temp_f: float) -> float:
 
 
 # For local debugging
+# Test for push 2
 # Be aware you may need to type-convert arguments if you add input parameters
 if __name__ == '__main__':
     if len(sys.argv) > 1:
